@@ -6,6 +6,6 @@
   "author": "Harry Manchanda <harmanmanchanda182@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "http-server -p 8080 -a localhost -c 0"
+    "dev": "http-server -p 3000 -a localhost -c 0"
   }
 }
